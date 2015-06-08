@@ -3,7 +3,7 @@ description "Master database server"
 
 all_env = [
   "role[base]", 
-  "recipe[mysql::server@5.5.4]"
+  "recipe[mysql::server@5.6.2]"
 ] 
 
 run_list(all_env)
