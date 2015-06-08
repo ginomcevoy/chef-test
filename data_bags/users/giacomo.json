@@ -1,0 +1,7 @@
+{
+    "id": "giacomo",
+    "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDldRrsWwnMqbocaPUaYeOba6HC1mWAMjUQgL/jJiFa6SSDj5Fe3KM6Eashcd0iTbiyZOoUfNTX0GzC75Z+Ps8U2ATczby7WXI91u5/aINfmNwcZglXU8GkDwFMDvUP7LqN0eaNXsfadl+0kLa0z+FwaU13pl8VlYDcbIjIdJwoIiqNaETZ7K3D4xG+1VCigJOCO1XjQW/CA9DAs3Q4jfBSmP8Gl9UH0+Nmp/vuEDR8ISzyEMueVtWLVSSQZIn2irLOhyUxj7zsryQ9JuiSpgqR5va6lqVB4+23sqDlk6Iu8sWMt3s8KIA+bb48JrSwdJ+0AOBnCeLtYwRg2YnBHrfr giacomo@giacomo-Inspiron-5537",
+    "groups": [ "sysadmin", "dba", "devops" ],
+    "uid": 2001,
+    "shell": "/bin/bash"
+}
